@@ -8,7 +8,7 @@
   </ul>
 
   <hr>
-  <h2>Resumo sobre os como tratei os processos</h2>
+  <h2>Resumo sobre como tratei os processos</h2>
   <p>Basicamente os programas tem um arquivo contendo o processo e suas informações. Cada linha representa um processo, sendo que as informações são divididas
   entre pontos e vírgulas</p>
   <ul>
