@@ -7,6 +7,7 @@
     <li>Shortest Job First (SJF)</li>
     <li>Round-Robin</li>
     <li>Prioridade</li>
+    <li>Múltiplas Filas</li>
   </ul>
 
   <hr>
