@@ -1,0 +1,7 @@
+P1;10;2;”/bin/P1”;”usuario1”
+P2;35;3;”/bin/P2” ;”usuario2”
+P3;4;4;”/bin/P3”;”usuario1”
+P4;13;3;”/bin/P4”;”usuario2”
+P5;16;2;”/bin/P5”;”usuario1”
+P6;50;1;”/bin/P6”;”usuario2”
+P7;22;4;”/bin/P7”;”usuario2”
